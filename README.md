@@ -2,7 +2,7 @@
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
-💻 Tenho interesse em Desenvolvimento de Software, Banco de Dados, Engenharia de Software e Tecnologia.
+💻 Sou estudante de Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade de estágio na área de tecnologia. Tenho interesse em desenvolvimento de software, banco de dados e engenharia de software, e estou em constante evolução por meio dos estudos e da prática em projetos acadêmicos.
 
 🚀 Atualmente estou desenvolvendo meus conhecimentos em:
 
